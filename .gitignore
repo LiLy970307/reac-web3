@@ -1,1 +1,10 @@
 node_modules
+<<<<<<< HEAD
+=======
+.DS_Store
+dist
+dist-ssr
+*.local
+/node_modules
+*.zip
+>>>>>>> 0e64bded82323c35a8dd957702d1cc5a84f24ba4
